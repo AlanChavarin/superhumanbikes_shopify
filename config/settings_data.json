@@ -209,7 +209,8 @@
           ".sf-menu-logo-bar {padding: 15px;}",
           ".sf-logo {margin-right: 20px; margin-left: -40px;}",
           ".sf__menu-item-level1 {font-size: 20px; letter-spacing: 1.5px;}",
-          ".sf__topbar-inner:nth-child(2) {border: 1px solid red;}"
+          ".sf__topbar-inner:nth-child(2) {border: 1px solid red;}",
+          "@media (width < 1200px) {.w-1\/3{width: 20%; }}"
         ],
         "settings": {
           "header_design": "logo-left-menu-center",
