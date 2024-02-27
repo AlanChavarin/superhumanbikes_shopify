@@ -129,7 +129,7 @@
         "enable_flashsale": false,
         "show_countdown": false,
         "product_to_show": 8,
-        "items_per_row": 5,
+        "items_per_row": 4,
         "item_gap": 0,
         "pcard_layout": "",
         "pcard_image_ratio": "4\/3",
