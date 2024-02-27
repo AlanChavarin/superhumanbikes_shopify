@@ -209,7 +209,7 @@
           ".sf-menu-logo-bar {padding: 15px;}",
           ".sf-logo {margin-right: 20px; margin-left: -40px;}",
           ".sf__menu-item-level1 {font-size: 20px; letter-spacing: 1.5px;}",
-          "@media (width < 1200px) {.sf__topbar-inner .justify-end {border: 1px solid red; display: none; }}"
+          "@media (width < 1200px) {.sf__topbar-inner .justify-end {width: 256px; }}"
         ],
         "settings": {
           "header_design": "logo-left-menu-center",
