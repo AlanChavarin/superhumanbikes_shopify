@@ -2,102 +2,30 @@
   "sections": {
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {
       }
     },
-    "custom_content_X7GEJV": {
-      "type": "custom-content",
+    "1709061375f1861650": {
+      "type": "apps",
       "blocks": {
-        "text_P3c4AM": {
-          "type": "text",
+        "klaviyo_email_marketing_sms_form_embed_block_a99tXn": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "disabled": true,
           "settings": {
-            "title": "Eligibility",
-            "subheading": "",
-            "text": "<p>Eligible models for this program are the <\/p><ul><li>Babymaker II<\/li><li>Bandit II<\/li><li>Step Through 2.0<\/li><li>F5 Trail <\/li><\/ul><p>This offer is valid while supplies last. In order to be eligible for this deal you need a valid and accepted payment method. We reserve the right to deny any person from participating in this program.<\/p>",
-            "width": "66%",
-            "alignment": "center",
-            "align_text": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": ""
-          }
-        },
-        "text_BwWt7T": {
-          "type": "text",
-          "settings": {
-            "title": "Payment",
-            "subheading": "",
-            "text": "<p>We will charge you an initial down payment of 5% of the ebike retail price. After 30 days, your first monthly installment of $85 is due. We will charge the card we have on file until the debt is paid off. If we are unable to receive payment from your initial payment method you will be contacted by Superhuman bikes. You may contact Superhuman bikes anytime to pay the whole debt off. If we are not able to charge the amount you owe by you under these terms and conditions, we reserve the right to turn over your debt to a collection agency. You agree to these payment terms when you participate in this program.<\/p>",
-            "width": "66%",
-            "alignment": "center",
-            "align_text": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": ""
-          }
-        },
-        "text_7ADAVD": {
-          "type": "text",
-          "settings": {
-            "title": "Returns",
-            "subheading": "",
-            "text": "<p>Our extensive quality control means that our products are thoroughly tested and ultra-reliable by industry standards. All products are warranted to work as described on arrival and for the warranty period. If there is a warranty claim, it will be assessed bySUPERHUMAN BIKES and new parts will be delivered upon the claims approval. We do not accept returns on any used or open e-bikes. Bikes that have been removed from their packaging and assembled are considered used.<br\/><br\/>SUPERHUMAN BIKESwill accept returns on unopened and unused bike shipments within 14-days of the delivery date, these are subject to a 25% restocking fee, and shipment fees. For more information on our return policy review our<a href=\"https:\/\/flxbike.zendesk.com\/hc\/en-us\/articles\/360056785293-What-s-the-return-refund-policy-\" target=\"_blank\" title=\"zendesk\">FAQ's page here.<\/a><\/p>",
-            "width": "66%",
-            "alignment": "center",
-            "align_text": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": ""
-          }
-        },
-        "text_NpNcHx": {
-          "type": "text",
-          "settings": {
-            "title": "Agreement changes",
-            "subheading": "",
-            "text": "<p>Superhuman has the right in our sole discretion to change these terms and conditions or any aspect of this program. Your continued use of this program after changes are made to the terms and conditions is your acceptance of the new changes.<\/p>",
-            "width": "66%",
-            "alignment": "center",
-            "align_text": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": ""
+            "formId": "TEns7T"
           }
         }
       },
       "block_order": [
-        "text_P3c4AM",
-        "text_BwWt7T",
-        "text_7ADAVD",
-        "text_NpNcHx"
+        "klaviyo_email_marketing_sms_form_embed_block_a99tXn"
       ],
-      "disabled": true,
       "settings": {
-        "heading": "Ride now, Pay later",
+        "heading": "",
         "subheading": "",
-        "description": "",
         "header_alignment": "center",
-        "container": "container-fluid",
+        "container": "container",
         "background_color": "",
-        "gap": 30,
-        "use_scroll_mobile": false,
-        "gap_mobile": 16,
         "padding_top": 0,
         "padding_bottom": 0,
         "custom_class": ""
@@ -106,6 +34,6 @@
   },
   "order": [
     "main",
-    "custom_content_X7GEJV"
+    "1709061375f1861650"
   ]
 }
