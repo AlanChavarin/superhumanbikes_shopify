@@ -1,0 +1,51 @@
+<div class="container social_media">
+  <div class="social_media_icons">
+    {% for block in section.blocks %}
+      <a class="social_media_icon" href="{{ block.settings.social_media_icon_url }}">
+      {% if block.settings.social_media_icon != blank %}
+      {{ block.settings.social_media_icon | img_url: 'master' | img_tag }}
+        {% endif %}
+        </a>
+    {% endfor %}   
+  </div>
+</div>
+<style>
+  .social_media_icons{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+  }
+  .social_media_icon img{
+    width:auto;
+    height: 35px;
+    max-width:100%;
+  }
+</style>
+{% schema %}
+  {
+    "name": "Social Media",
+       "blocks": [{
+      "type": "image",
+      "name": "Social Media Item",
+      "settings": [
+         {
+            "type": "image_picker",
+            "id": "social_media_icon",
+            "label": "Social Media Icon"
+         },
+      {
+        "id": "social_media_icon_url",
+        "type": "url",
+        "label": "Social Media Url"
+      }          
+      ]
+   }],
+    "presets": [
+      {
+        "name": "Social Media",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}

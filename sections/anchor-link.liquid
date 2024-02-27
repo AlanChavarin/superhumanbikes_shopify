@@ -1,0 +1,71 @@
+<div class="anchor_link_sec">
+  <div class="container section-my">
+    <div class="anchor_link_inner">
+      <div class="anchor_link_item">
+        {% for block in section.blocks %}
+            <a class="anchor_link" href="{{ block.settings.anchor_link_url }}">{{ block.settings.anchor_link_text }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .anchor_link_sec{
+    padding:30px 0;
+  }
+  .anchor_link_inner{
+    padding:20px 0;
+    border-top: 1px solid #000;
+  }
+  .anchor_link_item{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    flex-wrap: wrap;
+  }
+  .anchor_link{
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100.5%; /* 18.09px */
+    letter-spacing: 1.53px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  @media (max-width: 767.98px) { 
+      .anchor_link{
+        font-size:14px;
+      }
+  }
+</style>
+{% schema %}
+  {
+    "name": "Anchor Link",
+       "blocks": [{
+      "type": "link",
+      "name": "Anchor Link",
+      "settings": [
+         {
+            "type": "url",
+            "id": "anchor_link_url",
+            "label": "Link URL"
+         },
+      {
+        "id": "anchor_link_text",
+        "type": "text",
+        "label": "Link text"
+      }           
+      ]
+   }],
+    "presets": [
+      {
+        "name": "Anchor Link",
+        "category": "Custom"
+      }
+    ]
+  }
+{% endschema %}
