@@ -1,1 +1,426 @@
-{"current":{"favicon":"shopify:\/\/shop_images\/Superhuman_Favicon.png","show_scroll_top_button":false,"container_width":1180,"container_fluid_width":1400,"container_fluid_offset":65,"spacing_sections":10,"color_primary":"#000000","color_main_bg":"#ffffff","color_field_bg":"#ffffff","color_body_text":"#000000","color_heading_text":"#000000","color_sub_text":"#000000","color_btn_bg":"#ffd400","color_btn_text":"#000000","color_btn_secondary_text":"#ffffff","color_btn_bg_hover":"#939607","color_btn_text_hover":"#ffffff","prod_sale_price_color":"#939607","prod_type_color":"#666666","color_annoucement_bg":"#ffd400","color_annoucement_text":"#000000","color_topbar_bg":"#ffffff","color_topbar_text":"#000000","color_header_bg":"#000000","color_header_link":"#ffffff","color_header_transparent":"#000000","bg_cart_wishlist_count":"#da3f3f","color_menu_bar_bg":"#000000","color_menu_bar_text":"#f8f8f8","color_footer_bg":"#000000","color_footer_text":"#ffffff","color_footer_subtext":"#ffffff","color_footer_link":"#ffffff","color_footer_link_hover":"#ffd400","color_footer_bg_mb":"#000000","color_footer_bottom_bg":"#000000","color_footer_bottom_text":"#ffffff","color_footer_bottom_bg_mb":"#000000","color_border":"#dedede","img_overlay_opacity":20,"tooltip_background_color":"#000000","type_base_font":"roboto_n4","use_custom_font_body":true,"custom_body_font":"https:\/\/cdn.shopify.com\/s\/files\/1\/2351\/5779\/files\/PlusJakartaSans-Regular.woff?v=1699312552","custom_body_weight":"400","type_base_size":14,"type_header_font":"inter_n4","use_custom_font_heading":true,"custom_heading_font":"https:\/\/cdn.shopify.com\/s\/files\/1\/2351\/5779\/files\/Aeternus-HeavyItalic.otf?v=1694654482","custom_heading_weight":"400","type_header_base_size":29,"btn_uppercase_text":true,"btn_base_size":16,"btn_border_radius":23,"btn_weight":"700","pcard_layout":"1","pcard_alignment":"center","pcard_image_ratio":"4\/3","show_second_img":true,"show_swatch_option":true,"pcard_limit_values_number":4,"show_cart_button":false,"show_quickview_button":false,"show_wishlist_button":false,"show_compare_button":false,"on_sale_badge":"hide","show_badge_soldout":true,"show_review_badge":false,"show_badge_sale":true,"show_vendor":false,"uppercase_prd_name":false,"pcard_title_line_clamp":"1","pcard_show_lowest_prices":false,"variant_option_design_default":"button","variant_option_title1":"Color","variant_option_design1":"default","variant_option_title2":"Logo","variant_option_design2":"button","variant_option_design3":"color","product_colors":"rari red: #FF0000,\nSandstorm:#FFFFFF,\nSilver:#C0C0C0,\nGloss Black: #000000,\nMatte Black:#2C2928,\nGloss White: #ffffff,\nTangerine: #FF8516,\nSterling: #FFFFFF,\nSlime Green: #008000,\nOnyx Black: #000000,\nred: #FF0000,\nArmy Green : #35412D,\nyellow: #FDDA76,\nblack: #000000,\nblack band: #000000,\nblue: #8DB4D2,\ngreen: #6A7551,\npurple: #B19CD9,\nsilver: #EEEEEF,\nwhite: #FFFFFF,\nbrown: #836953,\nlight brown: #B5651D,\ndark turquoise: #23cddc,\norange: #FFB347,\ntan: #E9D1BF,\nviolet: #B490B0,\npink: #FFD1DC,\ngrey: #E0E0E0,\nsky: #96BDC6,\npale leaf: #CCD4BF,\nlight blue: #b1c5d4,\ndark grey: #aca69f,\nbeige: #EBE6DB,\nbeige band: #EED9C4,\ndark blue: #063e66,\ncream: #FFFFCC,\nlight pink: #FBCFCD,\nmint: #bedce3,\ndark gray: #3A3B3C,\nrosy brown: #c4a287,\nlight grey:#D3D3D3,\ncopper: #B87333,\nrose gold: #ECC5C0,\nnight blue: #151B54,\ncoral: #FF7F50,\nlight purple: #C6AEC7","filter_color1":"Steel Gray","filter_color2":"Platinum","filter_color3":"Carbon Black","filter_color4":"Matte Blue","filter_color5":"Matte Red","article_show_date":false,"article_show_excerpt":false,"article_show_button":true,"share_facebook":true,"share_pinterest":true,"contact_phone_number":"231-432-7837","contact_email":"support@superhumanbikes.com","find_store":"dealer-locator","social_twitter_link":"https:\/\/www.twitter.com\/superhumanbikes","social_twitter_label":"","social_facebook_link":"https:\/\/www.facebook.com\/superhumanbikes","social_facebook_label":"","social_pinterest_link":"","social_pinterest_label":"","social_instagram_link":"https:\/\/www.instagram.com\/superhumanbikes","social_instagram_label":"","social_snapchat_link":"","social_youtube_link":"https:\/\/www.youtube.com\/channel\/UC13kWhYPjoYHfvfbgG2QjAA","social_youtube_label":"","social_tiktok_link":"","discount_code_enable":true,"cart_estimate_shipping":false,"show_delivery_days":true,"default_country_estimate_shipping":"US","search_by_tag":true,"search_by_body":false,"popular_search_queries":"","search_unavailable_products":"hide","wishlist_page":"wishlist","product_compare_page":"product-compare","show_agree_on_product":false,"show_cookie_consent":false,"cookie_design_mode":false,"cookie_consent_placement":"bottom-left","cookie_consent_theme":"white","gm_api":"AIzaSyDpoe0da98PMufODXynkUWkPfxbyJU-mv8","custom_css":".sf-topbar {\n  border-color: #eee;\n}\n\n.sf__font-normal {\n  font-weight: 400;\n}\nbody .sf-footer__block .social-media-links {\n  gap: 12px;\n  margin: 0;\n  padding: 5px;\n  flex-wrap: wrap;\n}\n\nbody .sf-footer__block .social-media-links a {\n  color: #222;\n  width: 48px;\n  height: 48px;\n  padding: 0;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  border-radius: 50%;\n  background-color: #E9E9E9;\n  transition: all .3s;\n}\n\nbody .sf-footer__block .social-media-links a:hover {\n  background-color: #222;\n  color: #fff;\n  box-shadow: 0 0 0 0.2rem #222;\n}\n\n@media (min-width: 1536px) {\n  body .sf__footer-block-newsletter .sf__footer-block-title {\n    font-size: 42px;\n  }\n}","review_app":"judge","currency_code_enabled":false,"checkout_logo_image":"shopify:\/\/shop_images\/SuperHuman_Logo_EPS_All_3.png","checkout_logo_position":"center","checkout_logo_size":"medium","checkout_sidebar_background_color":"#ffcf06","checkout_body_font":"Roboto","checkout_accent_color":"#666666","checkout_button_color":"#ffcf06","enable_page_transition":true,"sections":{"header":{"type":"header","blocks":{"5e153016-a9d7-46c9-a10e-30d16446793d":{"type":"topbar","settings":{"show_divider":true,"show_phone_numb":true,"show_email":false,"show_social_links":true,"show_stores_page":false,"show_currency_switcher":false,"show_country_selector":false,"show_language_switcher":false,"alert_message":"<a href=\"https:\/\/superhumanbikes.com\/products\/superhuman-jackhammer-mini-massage-gun\"><p style=\"letter-spacing:1px;\">Check out your new massage gun | Click here to see the Jackhammer<\/p>\n<p><\/p><\/a>"}},"a820a1bc-dfc4-4e61-8c8a-de23659759a6":{"type":"banner","disabled":true,"settings":{"heading":"Shop","container":"container-fluid","banner_style":"outside","banner_link":"","banner_title":"The New - Season Shoes Edit","banner_desc":"","banner_button_text":"Shop now"}},"31481022-f698-4968-bf06-3c24f36b09e7":{"type":"product-list","disabled":true,"settings":{"heading":"Products","container":"container-fluid","stretch_width":false,"collection":"best-sellers","limit":6,"columns":2}},"ea723308-92c0-42ae-a45d-aede426d8cdd":{"type":"custom_html","disabled":true,"settings":{"heading":"Features","container":"inherit","html":""}},"16f1022a-0670-47f3-944a-11b2fe346cbf":{"type":"custom_html","disabled":true,"settings":{"heading":"about","container":"inherit","html":""}}},"block_order":["5e153016-a9d7-46c9-a10e-30d16446793d","a820a1bc-dfc4-4e61-8c8a-de23659759a6","31481022-f698-4968-bf06-3c24f36b09e7","ea723308-92c0-42ae-a45d-aede426d8cdd","16f1022a-0670-47f3-944a-11b2fe346cbf"],"custom_css":[".text-\\[15px\\] {\/* font-family: bebas neue; *\/}",".sf-sub-menu__link {\/* font-family: bebas neue; *\/ font-family: PlusJakartaSans-Regular; font-size: 18px; color: black;}",".sf-menu-submenu__title {font-family: PlusJakartaSans-Regular; color: black; font-size: 18px;}",".py-5 {font-size: 25px; letter-spacing: 1px;}",".header_icon_text {display: none;}",".sf-menu-logo-bar {padding: 15px;}",".sf-logo {margin-right: 20px; margin-left: -40px;}",".sf__menu-item-level1 {font-size: 20px; letter-spacing: 1.5px;}"],"settings":{"header_design":"logo-left-menu-center","container":"container-fluid","header_sticky":true,"transparent_on_top":false,"logo_text":"Superhuman","logo":"shopify:\/\/shop_images\/SuperHuman_Logo_EPS_All_6.png","logo_transparent":"shopify:\/\/shop_images\/SuperHuman_Logo_EPS_All_3.png","logo_svg":"","logo_mobile_svg":"","logo_transparent_svg":"","logo_max_width":185,"sticky_logo_max_width":125,"mobile_logo_max_width":90,"main_menu":"header-menu","secondary_menu":"","mobile_menu":"mobile","uppercase_parent_level":true,"search":"show_icon","show_account_icon":true,"show_cart_icon":true,"show_wishlist_icon":false,"show_compare_icon":false,"show_currency_switcher":false,"show_country_selector":false,"show_language_switcher":false}},"footer":{"type":"footer","blocks":{"5f3cad71-771d-47c5-8e2f-d58c9ee74980":{"type":"menu","settings":{"menu":"company","title":"Superhuman Bikes","width":"25%","order_first":false,"open_default":false}},"b103ad32-f06e-4ffc-869e-59414d5b7752":{"type":"menu","settings":{"menu":"connect-with-us","title":"Connect with Us","width":"25%","order_first":false,"open_default":false}},"ed67c785-a882-4adc-925c-ad0fc7b6b93f":{"type":"menu","settings":{"menu":"bike-categories","title":"Categories","width":"25%","order_first":false,"open_default":false}},"04420aa6-050b-4805-8b46-794608633d9e":{"type":"menu","settings":{"menu":"support","title":"Support","width":"25%","order_first":false,"open_default":false}},"newsletter_gneUXq":{"type":"newsletter","settings":{"title":"Subscribe","description":"Enter your email below to be the first to know about new products and promotions.","email_placeholder":"Email","form_style":"bordered","show_social":false,"show_agree_checkbox":false,"width":"33%","order_first":true,"open_default":true}}},"block_order":["5f3cad71-771d-47c5-8e2f-d58c9ee74980","b103ad32-f06e-4ffc-869e-59414d5b7752","ed67c785-a882-4adc-925c-ad0fc7b6b93f","04420aa6-050b-4805-8b46-794608633d9e","newsletter_gneUXq"],"custom_css":["h3.font-medium.mb-4.text-base.sf__accordion-button.sf__footer-block-title {font-family: bebas neue;}","ul {font-size: 14px; font-family: PlusJakartaSans-Regular;}",".sf__newletter__form-input {color: black;}",".sf__footer-form-newsletter-icon {color: gray;}","button {color: gray;}","button:hover {color: black;}"],"settings":{"design":"footer-1","container":"container-fluid","bordered":false,"copyright":"© 2023 Superhuman Bikes","show_country_selector":false,"show_currency_selector":false,"show_language_selector":false,"show_social_links":true,"show_payment_icons":false,"payment_icons_width":300}},"annoucement":{"type":"annoucement","custom_css":[".text-base {font-size: 12px; font-family: PlusJakartaSans-Bold;}"],"settings":{"show_announcement":false,"homepage_only":false,"show_close":true,"message":"","message_link":"shopify:\/\/collections\/all-ebikes","show_divider":false}},"mobile-sticky-bar":{"type":"mobile-sticky-bar","settings":{"show_mobile_sticky":false,"show_home_icon":true,"show_collection_icon":false,"show_cart_icon":true,"show_search_icon":false,"show_account_icon":true,"show_wishlist_icon":false}}},"content_for_index":[],"blocks":{"14060646107696862457":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","disabled":false,"settings":{}},"7456567658179156570":{"type":"shopify:\/\/apps\/adroll-advertising-marketing\/blocks\/adroll-pixel\/c60853ed-1adb-4359-83ae-4ed43ed0b559","disabled":false,"settings":{"enable_email_capture":true}},"17275333509004181440":{"type":"shopify:\/\/apps\/rt-page-speed-optimizer\/blocks\/app-embed\/4a6fa896-93b0-4e15-9d32-c2311aca53bb","disabled":false,"settings":{}},"855628211100114053":{"type":"shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507","disabled":false,"settings":{}},"15683396631634586217":{"type":"shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b","disabled":true,"settings":{"button_color":"#0053ff","secondary_color":"#ffffff","ternary_color":"#6a6a6a","button_icon":"chat_bubble","button_text":"no_text","button_horizontal_position":"bottom_right","button_vertical_position":"lowest","greeting_message":"👋 Hello! Please message us if you have questions, or give an idea of what you’re looking for. We’re here to help."}}}},"presets":{"Default":{"sections":{"featured-collection":{"type":"featured-collection","settings":{"collection":"frontpage"}},"featured-product":{"type":"featured-product","settings":{}}},"content_for_index":["featured-collection","featured-product"]}},"platform_customizations":{"custom_css":["main {}"]}}
+{
+  "current": {
+    "favicon": "shopify:\/\/shop_images\/Superhuman_Favicon.png",
+    "show_scroll_top_button": false,
+    "container_width": 1180,
+    "container_fluid_width": 1400,
+    "container_fluid_offset": 65,
+    "spacing_sections": 10,
+    "color_primary": "#000000",
+    "color_main_bg": "#ffffff",
+    "color_field_bg": "#ffffff",
+    "color_body_text": "#000000",
+    "color_heading_text": "#000000",
+    "color_sub_text": "#000000",
+    "color_btn_bg": "#ffd400",
+    "color_btn_text": "#000000",
+    "color_btn_secondary_text": "#ffffff",
+    "color_btn_bg_hover": "#939607",
+    "color_btn_text_hover": "#ffffff",
+    "prod_sale_price_color": "#939607",
+    "prod_type_color": "#666666",
+    "color_annoucement_bg": "#ffd400",
+    "color_annoucement_text": "#000000",
+    "color_topbar_bg": "#ffffff",
+    "color_topbar_text": "#000000",
+    "color_header_bg": "#000000",
+    "color_header_link": "#ffffff",
+    "color_header_transparent": "#000000",
+    "bg_cart_wishlist_count": "#da3f3f",
+    "color_menu_bar_bg": "#000000",
+    "color_menu_bar_text": "#f8f8f8",
+    "color_footer_bg": "#000000",
+    "color_footer_text": "#ffffff",
+    "color_footer_subtext": "#ffffff",
+    "color_footer_link": "#ffffff",
+    "color_footer_link_hover": "#ffd400",
+    "color_footer_bg_mb": "#000000",
+    "color_footer_bottom_bg": "#000000",
+    "color_footer_bottom_text": "#ffffff",
+    "color_footer_bottom_bg_mb": "#000000",
+    "color_border": "#dedede",
+    "img_overlay_opacity": 20,
+    "tooltip_background_color": "#000000",
+    "type_base_font": "roboto_n4",
+    "use_custom_font_body": true,
+    "custom_body_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/2351\/5779\/files\/PlusJakartaSans-Regular.woff?v=1699312552",
+    "custom_body_weight": "400",
+    "type_base_size": 14,
+    "type_header_font": "inter_n4",
+    "use_custom_font_heading": true,
+    "custom_heading_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/2351\/5779\/files\/Aeternus-HeavyItalic.otf?v=1694654482",
+    "custom_heading_weight": "400",
+    "type_header_base_size": 29,
+    "btn_uppercase_text": true,
+    "btn_base_size": 16,
+    "btn_border_radius": 23,
+    "btn_weight": "700",
+    "pcard_layout": "1",
+    "pcard_alignment": "center",
+    "pcard_image_ratio": "4\/3",
+    "show_second_img": true,
+    "show_swatch_option": true,
+    "pcard_limit_values_number": 4,
+    "show_cart_button": false,
+    "show_quickview_button": false,
+    "show_wishlist_button": false,
+    "show_compare_button": false,
+    "on_sale_badge": "hide",
+    "show_badge_soldout": true,
+    "show_review_badge": false,
+    "show_badge_sale": true,
+    "show_vendor": false,
+    "uppercase_prd_name": false,
+    "pcard_title_line_clamp": "1",
+    "pcard_show_lowest_prices": false,
+    "variant_option_design_default": "button",
+    "variant_option_title1": "Color",
+    "variant_option_design1": "default",
+    "variant_option_title2": "Logo",
+    "variant_option_design2": "button",
+    "variant_option_design3": "color",
+    "product_colors": "rari red: #FF0000,\nSandstorm:#FFFFFF,\nSilver:#C0C0C0,\nGloss Black: #000000,\nMatte Black:#2C2928,\nGloss White: #ffffff,\nTangerine: #FF8516,\nSterling: #FFFFFF,\nSlime Green: #008000,\nOnyx Black: #000000,\nred: #FF0000,\nArmy Green : #35412D,\nyellow: #FDDA76,\nblack: #000000,\nblack band: #000000,\nblue: #8DB4D2,\ngreen: #6A7551,\npurple: #B19CD9,\nsilver: #EEEEEF,\nwhite: #FFFFFF,\nbrown: #836953,\nlight brown: #B5651D,\ndark turquoise: #23cddc,\norange: #FFB347,\ntan: #E9D1BF,\nviolet: #B490B0,\npink: #FFD1DC,\ngrey: #E0E0E0,\nsky: #96BDC6,\npale leaf: #CCD4BF,\nlight blue: #b1c5d4,\ndark grey: #aca69f,\nbeige: #EBE6DB,\nbeige band: #EED9C4,\ndark blue: #063e66,\ncream: #FFFFCC,\nlight pink: #FBCFCD,\nmint: #bedce3,\ndark gray: #3A3B3C,\nrosy brown: #c4a287,\nlight grey:#D3D3D3,\ncopper: #B87333,\nrose gold: #ECC5C0,\nnight blue: #151B54,\ncoral: #FF7F50,\nlight purple: #C6AEC7",
+    "filter_color1": "Steel Gray",
+    "filter_color2": "Platinum",
+    "filter_color3": "Carbon Black",
+    "filter_color4": "Matte Blue",
+    "filter_color5": "Matte Red",
+    "article_show_date": false,
+    "article_show_excerpt": false,
+    "article_show_button": true,
+    "share_facebook": true,
+    "share_pinterest": true,
+    "contact_phone_number": "231-432-7837",
+    "contact_email": "support@superhumanbikes.com",
+    "find_store": "dealer-locator",
+    "social_twitter_link": "https:\/\/www.twitter.com\/superhumanbikes",
+    "social_twitter_label": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/superhumanbikes",
+    "social_facebook_label": "",
+    "social_pinterest_link": "",
+    "social_pinterest_label": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/superhumanbikes",
+    "social_instagram_label": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC13kWhYPjoYHfvfbgG2QjAA",
+    "social_youtube_label": "",
+    "social_tiktok_link": "",
+    "discount_code_enable": true,
+    "cart_estimate_shipping": false,
+    "show_delivery_days": true,
+    "default_country_estimate_shipping": "US",
+    "search_by_tag": true,
+    "search_by_body": false,
+    "popular_search_queries": "",
+    "search_unavailable_products": "hide",
+    "wishlist_page": "wishlist",
+    "product_compare_page": "product-compare",
+    "show_agree_on_product": false,
+    "show_cookie_consent": false,
+    "cookie_design_mode": false,
+    "cookie_consent_placement": "bottom-left",
+    "cookie_consent_theme": "white",
+    "gm_api": "AIzaSyDpoe0da98PMufODXynkUWkPfxbyJU-mv8",
+    "custom_css": ".sf-topbar {\n  border-color: #eee;\n}\n\n.sf__font-normal {\n  font-weight: 400;\n}\nbody .sf-footer__block .social-media-links {\n  gap: 12px;\n  margin: 0;\n  padding: 5px;\n  flex-wrap: wrap;\n}\n\nbody .sf-footer__block .social-media-links a {\n  color: #222;\n  width: 48px;\n  height: 48px;\n  padding: 0;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  border-radius: 50%;\n  background-color: #E9E9E9;\n  transition: all .3s;\n}\n\nbody .sf-footer__block .social-media-links a:hover {\n  background-color: #222;\n  color: #fff;\n  box-shadow: 0 0 0 0.2rem #222;\n}\n\n@media (min-width: 1536px) {\n  body .sf__footer-block-newsletter .sf__footer-block-title {\n    font-size: 42px;\n  }\n}",
+    "review_app": "judge",
+    "currency_code_enabled": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/SuperHuman_Logo_EPS_All_3.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
+    "checkout_sidebar_background_color": "#ffcf06",
+    "checkout_body_font": "Roboto",
+    "checkout_accent_color": "#666666",
+    "checkout_button_color": "#ffcf06",
+    "enable_page_transition": true,
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "5e153016-a9d7-46c9-a10e-30d16446793d": {
+            "type": "topbar",
+            "settings": {
+              "show_divider": true,
+              "show_phone_numb": true,
+              "show_email": false,
+              "show_social_links": true,
+              "show_stores_page": false,
+              "show_currency_switcher": false,
+              "show_country_selector": false,
+              "show_language_switcher": false,
+              "alert_message": "<a href=\"https:\/\/superhumanbikes.com\/products\/superhuman-jackhammer-mini-massage-gun\"><p style=\"letter-spacing:1px;\">Check out your new massage gun | Click here to see the Jackhammer<\/p>\n<p><\/p><\/a>"
+            }
+          },
+          "a820a1bc-dfc4-4e61-8c8a-de23659759a6": {
+            "type": "banner",
+            "disabled": true,
+            "settings": {
+              "heading": "Shop",
+              "container": "container-fluid",
+              "banner_style": "outside",
+              "banner_link": "",
+              "banner_title": "The New - Season Shoes Edit",
+              "banner_desc": "",
+              "banner_button_text": "Shop now"
+            }
+          },
+          "31481022-f698-4968-bf06-3c24f36b09e7": {
+            "type": "product-list",
+            "disabled": true,
+            "settings": {
+              "heading": "Products",
+              "container": "container-fluid",
+              "stretch_width": false,
+              "collection": "best-sellers",
+              "limit": 6,
+              "columns": 2
+            }
+          },
+          "ea723308-92c0-42ae-a45d-aede426d8cdd": {
+            "type": "custom_html",
+            "disabled": true,
+            "settings": {
+              "heading": "Features",
+              "container": "inherit",
+              "html": ""
+            }
+          },
+          "16f1022a-0670-47f3-944a-11b2fe346cbf": {
+            "type": "custom_html",
+            "disabled": true,
+            "settings": {
+              "heading": "about",
+              "container": "inherit",
+              "html": ""
+            }
+          }
+        },
+        "block_order": [
+          "5e153016-a9d7-46c9-a10e-30d16446793d",
+          "a820a1bc-dfc4-4e61-8c8a-de23659759a6",
+          "31481022-f698-4968-bf06-3c24f36b09e7",
+          "ea723308-92c0-42ae-a45d-aede426d8cdd",
+          "16f1022a-0670-47f3-944a-11b2fe346cbf"
+        ],
+        "custom_css": [
+          ".sf-sub-menu__link {\/* font-family: bebas neue; *\/ font-family: PlusJakartaSans-Regular; font-size: 18px; color: black;}",
+          ".sf-menu-submenu__title {font-family: PlusJakartaSans-Regular; color: black; font-size: 18px;}",
+          ".py-5 {font-size: 25px; letter-spacing: 1px;}",
+          ".header_icon_text {display: none;}",
+          ".sf-menu-logo-bar {padding: 15px;}",
+          ".sf-logo {margin-right: 20px; margin-left: -40px;}",
+          ".sf__menu-item-level1 {font-size: 20px; letter-spacing: 1.5px;}",
+          ".sf__topbar-inner:nth-child(2) {border: 1px solid red;}"
+        ],
+        "settings": {
+          "header_design": "logo-left-menu-center",
+          "container": "container-fluid",
+          "header_sticky": true,
+          "transparent_on_top": false,
+          "logo_text": "Superhuman",
+          "logo": "shopify:\/\/shop_images\/SuperHuman_Logo_EPS_All_6.png",
+          "logo_transparent": "shopify:\/\/shop_images\/SuperHuman_Logo_EPS_All_3.png",
+          "logo_svg": "",
+          "logo_mobile_svg": "",
+          "logo_transparent_svg": "",
+          "logo_max_width": 185,
+          "sticky_logo_max_width": 125,
+          "mobile_logo_max_width": 90,
+          "main_menu": "header-menu",
+          "secondary_menu": "",
+          "mobile_menu": "mobile",
+          "uppercase_parent_level": true,
+          "search": "show_icon",
+          "show_account_icon": true,
+          "show_cart_icon": true,
+          "show_wishlist_icon": false,
+          "show_compare_icon": false,
+          "show_currency_switcher": false,
+          "show_country_selector": false,
+          "show_language_switcher": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "5f3cad71-771d-47c5-8e2f-d58c9ee74980": {
+            "type": "menu",
+            "settings": {
+              "menu": "company",
+              "title": "Superhuman Bikes",
+              "width": "25%",
+              "order_first": false,
+              "open_default": false
+            }
+          },
+          "b103ad32-f06e-4ffc-869e-59414d5b7752": {
+            "type": "menu",
+            "settings": {
+              "menu": "connect-with-us",
+              "title": "Connect with Us",
+              "width": "25%",
+              "order_first": false,
+              "open_default": false
+            }
+          },
+          "ed67c785-a882-4adc-925c-ad0fc7b6b93f": {
+            "type": "menu",
+            "settings": {
+              "menu": "bike-categories",
+              "title": "Categories",
+              "width": "25%",
+              "order_first": false,
+              "open_default": false
+            }
+          },
+          "04420aa6-050b-4805-8b46-794608633d9e": {
+            "type": "menu",
+            "settings": {
+              "menu": "support",
+              "title": "Support",
+              "width": "25%",
+              "order_first": false,
+              "open_default": false
+            }
+          },
+          "newsletter_gneUXq": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Subscribe",
+              "description": "Enter your email below to be the first to know about new products and promotions.",
+              "email_placeholder": "Email",
+              "form_style": "bordered",
+              "show_social": false,
+              "show_agree_checkbox": false,
+              "width": "33%",
+              "order_first": true,
+              "open_default": true
+            }
+          }
+        },
+        "block_order": [
+          "5f3cad71-771d-47c5-8e2f-d58c9ee74980",
+          "b103ad32-f06e-4ffc-869e-59414d5b7752",
+          "ed67c785-a882-4adc-925c-ad0fc7b6b93f",
+          "04420aa6-050b-4805-8b46-794608633d9e",
+          "newsletter_gneUXq"
+        ],
+        "custom_css": [
+          "h3.font-medium.mb-4.text-base.sf__accordion-button.sf__footer-block-title {font-family: bebas neue;}",
+          "ul {font-size: 14px; font-family: PlusJakartaSans-Regular;}",
+          ".sf__newletter__form-input {color: black;}",
+          ".sf__footer-form-newsletter-icon {color: gray;}",
+          "button {color: gray;}",
+          "button:hover {color: black;}"
+        ],
+        "settings": {
+          "design": "footer-1",
+          "container": "container-fluid",
+          "bordered": false,
+          "copyright": "© 2023 Superhuman Bikes",
+          "show_country_selector": false,
+          "show_currency_selector": false,
+          "show_language_selector": false,
+          "show_social_links": true,
+          "show_payment_icons": false,
+          "payment_icons_width": 300
+        }
+      },
+      "annoucement": {
+        "type": "annoucement",
+        "custom_css": [
+          ".text-base {font-size: 12px; font-family: PlusJakartaSans-Bold;}"
+        ],
+        "settings": {
+          "show_announcement": false,
+          "homepage_only": false,
+          "show_close": true,
+          "message": "",
+          "message_link": "shopify:\/\/collections\/all-ebikes",
+          "show_divider": false
+        }
+      },
+      "mobile-sticky-bar": {
+        "type": "mobile-sticky-bar",
+        "settings": {
+          "show_mobile_sticky": false,
+          "show_home_icon": true,
+          "show_collection_icon": false,
+          "show_cart_icon": true,
+          "show_search_icon": false,
+          "show_account_icon": true,
+          "show_wishlist_icon": false
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "7456567658179156570": {
+        "type": "shopify:\/\/apps\/adroll-advertising-marketing\/blocks\/adroll-pixel\/c60853ed-1adb-4359-83ae-4ed43ed0b559",
+        "disabled": false,
+        "settings": {
+          "enable_email_capture": true
+        }
+      },
+      "17275333509004181440": {
+        "type": "shopify:\/\/apps\/rt-page-speed-optimizer\/blocks\/app-embed\/4a6fa896-93b0-4e15-9d32-c2311aca53bb",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": true,
+        "settings": {
+          "button_color": "#0053ff",
+          "secondary_color": "#ffffff",
+          "ternary_color": "#6a6a6a",
+          "button_icon": "chat_bubble",
+          "button_text": "no_text",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": "👋 Hello! Please message us if you have questions, or give an idea of what you’re looking for. We’re here to help."
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "featured-collection",
+        "featured-product"
+      ]
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "main {}"
+    ]
+  }
+}
