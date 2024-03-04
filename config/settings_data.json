@@ -152,9 +152,8 @@
           },
           "a820a1bc-dfc4-4e61-8c8a-de23659759a6": {
             "type": "banner",
-            "disabled": true,
             "settings": {
-              "heading": "Shop",
+              "heading": "eBikes",
               "container": "container-fluid",
               "banner_style": "outside",
               "banner_link": "",
