@@ -167,7 +167,7 @@
             "type": "product-list",
             "settings": {
               "heading": "Accessories",
-              "container": "container",
+              "container": "container-fluid",
               "stretch_width": false,
               "collection": "ebike-upgrades",
               "limit": 6,
@@ -178,7 +178,7 @@
             "type": "product-list",
             "settings": {
               "heading": "EBikes",
-              "container": "container",
+              "container": "container-fluid",
               "stretch_width": false,
               "collection": "mountain-electric-bikes",
               "limit": 6,
