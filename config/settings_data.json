@@ -166,7 +166,7 @@
             "type": "product-list",
             "settings": {
               "heading": "EBikes",
-              "container": "container-fluid",
+              "container": "container",
               "stretch_width": false,
               "collection": "urban-electric-bikes",
               "limit": 6,
@@ -177,7 +177,7 @@
             "type": "product-list",
             "settings": {
               "heading": "EBikes",
-              "container": "container-fluid",
+              "container": "container",
               "stretch_width": false,
               "collection": "mountain-electric-bikes",
               "limit": 6,
