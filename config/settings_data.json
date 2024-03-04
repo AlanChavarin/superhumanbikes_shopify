@@ -163,17 +163,6 @@
               "banner_button_text": "Shop now"
             }
           },
-          "31481022-f698-4968-bf06-3c24f36b09e7": {
-            "type": "product-list",
-            "settings": {
-              "heading": "Accessories",
-              "container": "container-fluid",
-              "stretch_width": false,
-              "collection": "ebike-upgrades",
-              "limit": 6,
-              "columns": 2
-            }
-          },
           "product_list_dbryza": {
             "type": "product-list",
             "settings": {
@@ -207,7 +196,6 @@
         "block_order": [
           "5e153016-a9d7-46c9-a10e-30d16446793d",
           "a820a1bc-dfc4-4e61-8c8a-de23659759a6",
-          "31481022-f698-4968-bf06-3c24f36b09e7",
           "product_list_dbryza",
           "ea723308-92c0-42ae-a45d-aede426d8cdd",
           "16f1022a-0670-47f3-944a-11b2fe346cbf"
