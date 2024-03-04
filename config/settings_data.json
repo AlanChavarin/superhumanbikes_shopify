@@ -152,6 +152,7 @@
           },
           "a820a1bc-dfc4-4e61-8c8a-de23659759a6": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "heading": "EBikes",
               "container": "container-fluid",
@@ -164,7 +165,6 @@
           },
           "31481022-f698-4968-bf06-3c24f36b09e7": {
             "type": "product-list",
-            "disabled": true,
             "settings": {
               "heading": "EBikes",
               "container": "container-fluid",
@@ -178,7 +178,7 @@
             "type": "product-list",
             "disabled": true,
             "settings": {
-              "heading": "Road",
+              "heading": "EBikes",
               "container": "container-fluid",
               "stretch_width": false,
               "collection": "mountain-electric-bikes",
