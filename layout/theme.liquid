@@ -92,7 +92,15 @@ $(document).ready(function() {
 });
 </script>
 
-
+<style>
+  .ktt10-flt, .ktt10-btn {
+    position: fixed !important;
+    left: 20px !important;
+    bottom: 20px !important;
+    right: auto !important;
+    z-index: 1000;
+  }
+</style>
     
   </head>
   
@@ -159,28 +167,6 @@ if (window.location.pathname === '/collections/electric-bike-accessories/seat-po
 }
 </script>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Custom Chat Widget Position</title>
-<style>
-  /* Custom CSS to move the chat iframe to the left side */
-  .ktt10-iframe {
-    position: fixed !important;
-    left: 20px !important; /* Position from the left side of the page */
-    bottom: 20px !important; /* Position from the bottom of the page */
-    right: auto !important; /* Reset any right positioning */
-    z-index: 1000; /* Ensure it's above other content */
-  }
-</style>
-</head>
-<body>
-
-<!-- Your existing content -->
-
-<!-- Chat widget script -->
 <script src="https://app.chatgptbuilder.io/webchat/plugin.js?v=5"></script>
 <script>
   window.onload = function() {
@@ -193,19 +179,25 @@ if (window.location.pathname === '/collections/electric-bike-accessories/seat-po
 
     // Additional JavaScript to adjust the chat widget's position
     setTimeout(function() {
+      var chatButton = document.querySelector('.ktt10-btn');
       var chatIframe = document.querySelector('.ktt10-iframe');
+
+      if (chatButton) {
+        chatButton.style.position = 'fixed';
+        chatButton.style.left = '20px'; // Position from the left side of the page
+        chatButton.style.bottom = '20px'; // Position from the bottom of the page
+        chatButton.style.right = 'auto'; // Reset any right positioning
+      }
+
       if (chatIframe) {
         chatIframe.style.position = 'fixed';
         chatIframe.style.left = '20px'; // Position from the left side of the page
-        chatIframe.style.bottom = '20px'; // Position from the bottom of the page
+        chatIframe.style.bottom = '70px'; // Adjust this value as needed to avoid overlapping with the button
         chatIframe.style.right = 'auto'; // Reset any right positioning
       }
     }, 3000); // Delay to ensure the widget has loaded, may need adjustment
   };
 </script>
-
-</body>
-</html>
     
 </body>
   <script src="https://fareharbor.com/embeds/api/v1/?autolightframe=yes"></script>
