@@ -191,6 +191,19 @@
               "container": "inherit",
               "html": ""
             }
+          },
+          "collection_list_nkQ4BU": {
+            "type": "collection-list",
+            "settings": {
+              "heading": "",
+              "container": "inherit",
+              "collection_1": "comfort-electric-bikes-1",
+              "collection_2": "",
+              "collection_3": "",
+              "collection_4": "",
+              "collection_5": "",
+              "collection_6": ""
+            }
           }
         },
         "block_order": [
@@ -198,7 +211,8 @@
           "a820a1bc-dfc4-4e61-8c8a-de23659759a6",
           "product_list_dbryza",
           "ea723308-92c0-42ae-a45d-aede426d8cdd",
-          "16f1022a-0670-47f3-944a-11b2fe346cbf"
+          "16f1022a-0670-47f3-944a-11b2fe346cbf",
+          "collection_list_nkQ4BU"
         ],
         "custom_css": [
           ".sf-sub-menu__link {\/* font-family: bebas neue; *\/ font-family: PlusJakartaSans-Regular; font-size: 18px; color: black;}",
