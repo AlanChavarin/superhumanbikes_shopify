@@ -165,6 +165,7 @@
           },
           "product_list_dbryza": {
             "type": "product-list",
+            "disabled": true,
             "settings": {
               "heading": "EBikes",
               "container": "container-fluid",
@@ -178,7 +179,7 @@
             "type": "product-list",
             "settings": {
               "heading": "Urban Electric Bikes",
-              "container": "container-fluid",
+              "container": "container",
               "stretch_width": false,
               "collection": "mountain-electric-bikes",
               "limit": 6,
