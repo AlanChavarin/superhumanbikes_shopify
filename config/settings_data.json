@@ -152,11 +152,11 @@
           },
           "a820a1bc-dfc4-4e61-8c8a-de23659759a6": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "heading": "EBikes",
               "container": "container-fluid",
               "banner_style": "outside",
-              "banner_image": "shopify:\/\/shop_images\/Artboard_1_copy_be625779-d6b9-48ff-a1d6-7b1e3275f55a.webp",
               "banner_link": "",
               "banner_title": "The New - Season Shoes Edit",
               "banner_desc": "",
