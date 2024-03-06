@@ -163,25 +163,13 @@
               "banner_button_text": "Shop now"
             }
           },
-          "product_list_dbryza": {
-            "type": "product-list",
-            "disabled": true,
-            "settings": {
-              "heading": "EBikes",
-              "container": "container-fluid",
-              "stretch_width": false,
-              "collection": "mountain-electric-bikes",
-              "limit": 6,
-              "columns": 1
-            }
-          },
           "product_list_eqAiTK": {
             "type": "product-list",
             "settings": {
-              "heading": "eBikes",
+              "heading": "Urban Electric Bikes",
               "container": "container",
               "stretch_width": false,
-              "collection": "mountain-electric-bikes",
+              "collection": "urban-electric-bikes",
               "limit": 6,
               "columns": 1
             }
@@ -203,15 +191,23 @@
               "container": "inherit",
               "html": ""
             }
+          },
+          "custom_html_NDpHbH": {
+            "type": "custom_html",
+            "settings": {
+              "heading": "",
+              "container": "inherit",
+              "html": "<div>Hello World<\/div>"
+            }
           }
         },
         "block_order": [
           "5e153016-a9d7-46c9-a10e-30d16446793d",
           "a820a1bc-dfc4-4e61-8c8a-de23659759a6",
-          "product_list_dbryza",
           "product_list_eqAiTK",
           "ea723308-92c0-42ae-a45d-aede426d8cdd",
-          "16f1022a-0670-47f3-944a-11b2fe346cbf"
+          "16f1022a-0670-47f3-944a-11b2fe346cbf",
+          "custom_html_NDpHbH"
         ],
         "custom_css": [
           ".sf-sub-menu__link {\/* font-family: bebas neue; *\/ font-family: PlusJakartaSans-Regular; font-size: 18px; color: black;}",
