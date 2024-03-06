@@ -163,17 +163,6 @@
               "banner_button_text": "Shop now"
             }
           },
-          "product_list_eqAiTK": {
-            "type": "product-list",
-            "settings": {
-              "heading": "eBikes",
-              "container": "container",
-              "stretch_width": false,
-              "collection": "fat-tire-electric-bikes",
-              "limit": 6,
-              "columns": 1
-            }
-          },
           "ea723308-92c0-42ae-a45d-aede426d8cdd": {
             "type": "custom_html",
             "disabled": true,
@@ -191,23 +180,13 @@
               "container": "inherit",
               "html": ""
             }
-          },
-          "custom_html_NDpHbH": {
-            "type": "custom_html",
-            "settings": {
-              "heading": "EBikes",
-              "container": "inherit",
-              "html": "<div style=\"color: red\">Hello World<\/div>"
-            }
           }
         },
         "block_order": [
           "5e153016-a9d7-46c9-a10e-30d16446793d",
           "a820a1bc-dfc4-4e61-8c8a-de23659759a6",
-          "product_list_eqAiTK",
           "ea723308-92c0-42ae-a45d-aede426d8cdd",
-          "16f1022a-0670-47f3-944a-11b2fe346cbf",
-          "custom_html_NDpHbH"
+          "16f1022a-0670-47f3-944a-11b2fe346cbf"
         ],
         "custom_css": [
           ".sf-sub-menu__link {\/* font-family: bebas neue; *\/ font-family: PlusJakartaSans-Regular; font-size: 18px; color: black;}",
@@ -233,7 +212,7 @@
           "logo_max_width": 185,
           "sticky_logo_max_width": 125,
           "mobile_logo_max_width": 90,
-          "main_menu": "header-menu-2",
+          "main_menu": "header-menu",
           "secondary_menu": "",
           "mobile_menu": "mobile",
           "uppercase_parent_level": true,
