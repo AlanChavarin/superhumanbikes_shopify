@@ -197,7 +197,7 @@
             "settings": {
               "heading": "",
               "container": "inherit",
-              "html": "<div>Hello World<\/div>"
+              "html": "<div style=\"color: white\">Hello World<\/div>"
             }
           }
         },
