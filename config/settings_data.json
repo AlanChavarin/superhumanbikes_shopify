@@ -195,9 +195,9 @@
           "custom_html_NDpHbH": {
             "type": "custom_html",
             "settings": {
-              "heading": "",
+              "heading": "EBikes",
               "container": "inherit",
-              "html": "<div style=\"color: white\">Hello World<\/div>"
+              "html": "<div style=\"color: red\">Hello World<\/div>"
             }
           }
         },
