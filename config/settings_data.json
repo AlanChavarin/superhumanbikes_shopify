@@ -169,7 +169,7 @@
               "heading": "eBikes",
               "container": "container",
               "stretch_width": false,
-              "collection": "urban-electric-bikes",
+              "collection": "fat-tire-electric-bikes",
               "limit": 6,
               "columns": 1
             }
